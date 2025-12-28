@@ -7,7 +7,7 @@
 <h1 align="center">Md. Hujaifa Islam Shanto</h1>
 <p align="center"><b> Full Stack Software Developer</b></p>
 
-<p>A passionate frontend developer from Bangladesh</p>
+<p>A passionate Full Stack Software Developer from Bangladesh</p>
 <p>- ♥️ I enjoy programming and sharing knowledge</p>
 <p>- 📫 How to reach me <b>mdhujaifaislamshanto@gmail.com</b></p>
 <p>- 💻 Most used line of code: <code>console.log("hello world")</code></p>
