@@ -14,7 +14,9 @@
 
 <h2>👨‍💻 About Me</h2>
 <p>
- I’m a passionate, self-taught developer from Bangladesh dedicated to building modern, high-quality web applications using the MERN stack. With a strong focus on frontend development, I create responsive and user-friendly interfaces that offer seamless user experiences. I’m continuously expanding my skills by exploring new technologies and best practices. Besides coding, I love contributing to open-source projects and sharing knowledge with the developer community to grow together.
+ Full-Stack Developer who enjoys turning ideas into real-world applications.
+I work across frontend and backend using React, Node.js, Express, MongoDB, and Firebase.
+Always learning, always building.
 </p>
 
 
