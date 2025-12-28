@@ -5,7 +5,7 @@
 
 <!-- 👨‍💻 Name & Designation -->
 <h1 align="center">Md. Hujaifa Islam Shanto</h1>
-<p align="center"><b>Frontend / Full Stack Software Developer</b></p>
+<p align="center"><b> Full Stack Software Developer</b></p>
 
 <p>A passionate frontend developer from Bangladesh</p>
 <p>- ♥️ I enjoy programming and sharing knowledge</p>
