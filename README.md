@@ -14,7 +14,7 @@
 
 <h2>About Me</h2>
 <p>
- Full-Stack Developer who enjoys turning ideas into real-world applications.
+ - Full-Stack Developer who enjoys turning ideas into real-world applications.
 I work across frontend and backend using React, Node.js, Express, PostgreSQL, and Next Auth.
 Always learning, always building.
 </p>
