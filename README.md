@@ -8,11 +8,11 @@
 <p align="center"><b> Full Stack Software Developer</b></p>
 
 <p>A passionate Full Stack Software Developer from Bangladesh</p>
-<p>- ♥️ I enjoy programming and sharing knowledge</p>
-<p>- 📫 How to reach me <b>mdhujaifaislamshanto@gmail.com</b></p>
+<p>-  I enjoy programming and sharing knowledge</p>
+<p>-  How to reach me <b>mdhujaifaislamshanto@gmail.com</b></p>
 <p>- 💻 Most used line of code: <code>console.log("hello world")</code></p>
 
-<h2>👨‍💻 About Me</h2>
+<h2>About Me</h2>
 <p>
  Full-Stack Developer who enjoys turning ideas into real-world applications.
 I work across frontend and backend using React, Node.js, Express, PostgreSQL, and Next Auth.
@@ -21,7 +21,7 @@ Always learning, always building.
 
 
 
-<h2>🚀 Languages and Tools:</h2>
+<h2>Languages and Tools:</h2>
 
 <p>
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block; margin-right:8px;">
