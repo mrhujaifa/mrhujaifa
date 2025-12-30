@@ -51,6 +51,13 @@ Always learning, always building.
   <a target="_blank" href="https://expressjs.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js" width="42" height="42" />
   </a>
+  <a target="_blank" href="https://www.postgresql.org/" style="display: inline-block; margin-right:8px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42" />
+</a>
+<a target="_blank" href="https://www.prisma.io/" style="display: inline-block; margin-right:8px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="Prisma" width="42" height="42" />
+</a>
+
   <a target="_blank" href="https://www.mongodb.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" />
   </a>
