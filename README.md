@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/zTn2Ms7s/Animation-Banner.gif" alt="Md. Hujaifa Islam Shanto - Frontend Developer Banner" width="100%" />
+  <img src="https://i.postimg.cc/jdGcRq87/Blue-and-White-Architect-Linked-In-Banner.gif" alt="Md. Hujaifa Islam Shanto - Frontend Developer Banner" width="100%" />
 </p>
 
 
@@ -20,57 +20,93 @@ Always learning, always building.
 </p>
 
 
+<h2 align="left">🛠️ Tech Stack</h2>
 
-<h2>Languages and Tools:</h2>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="58" height="58" alt="HTML5" />
+      <br />
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="58" height="58" alt="CSS3" />
+      <br />
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="58" height="58" alt="Tailwind CSS" />
+      <br />
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="58" height="58" alt="JavaScript" />
+      <br />
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="58" height="58" alt="TypeScript" />
+      <br />
+      <sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
 
-<p>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="display: inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://tailwindcss.com/" style="display: inline-block; margin-right:8px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://mui.com/material-ui/" style="display: inline-block; margin-right:8px;">
-    <img src="https://i.ibb.co.com/fYBk3cV9/mui.png" alt="material" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://reactjs.org/" style="display: inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://nextjs.org/" style="display: inline-block; margin-right:8px;">
-    <img src="https://img.icons8.com/fluency/48/nextjs.png" alt="Next.js" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://nodejs.org/" style="display: inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://expressjs.com/" style="display: inline-block; margin-right:8px;">
-    <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.postgresql.org/" style="display: inline-block; margin-right:8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42" />
-</a>
-<a target="_blank" href="https://www.prisma.io/" style="display: inline-block; margin-right:8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="Prisma" width="42" height="42" />
-</a>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="58" height="58" alt="React" />
+      <br />
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="58" height="58" alt="Next.js" />
+      <br />
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="58" height="58" alt="Node.js" />
+      <br />
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="58" height="58" alt="Express.js" />
+      <br />
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="58" height="58" alt="MongoDB" />
+      <br />
+      <sub><b>MongoDB</b></sub>
+    </td>
+  </tr>
 
-  <a target="_blank" href="https://www.mongodb.com/" style="display: inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" />
-  </a>
-
-  <a target="_blank" href="https://firebase.google.com/" style="display: inline-block; margin-right:8px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://git-scm.com/" style="display: inline-block; margin-right:8px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" />
-  </a>
-  
-  
-</p>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="58" height="58" alt="PostgreSQL" />
+      <br />
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="58" height="58" alt="Prisma" />
+      <br />
+      <sub><b>Prisma</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="58" height="58" alt="Firebase" />
+      <br />
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="58" height="58" alt="Git" />
+      <br />
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="58" height="58" alt="GitHub" />
+      <br />
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <h2>⚡️☕ Connect with me!</h2>
