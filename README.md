@@ -61,12 +61,6 @@ Always learning, always building.
   <a target="_blank" href="https://www.mongodb.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" />
   </a>
-  
-
-
-
-
-
 
   <a target="_blank" href="https://firebase.google.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="42" height="42" />
