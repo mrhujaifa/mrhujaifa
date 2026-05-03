@@ -4,8 +4,8 @@
 
 
 <!-- 👨‍💻 Name & Designation -->
-<h1>Md. Hujaifa Islam Shanto</h1>
-<p align=""><b> Full Stack Software Developer</b></p>
+<h1 align="center">Md. Hujaifa Islam Shanto</h1>
+<p align="center"><b> Full Stack Software Developer</b></p>
 
 <p>A passionate Full Stack Software Developer from Bangladesh</p>
 <p>-  I enjoy programming and sharing knowledge</p>
@@ -14,9 +14,11 @@
 
 <h2>About Me</h2>
 <p>
- - Full-Stack Developer who enjoys turning ideas into real-world applications.
-I work across frontend and backend using React, Node.js, Express, PostgreSQL, and Next Auth.
-Always learning, always building.
+I am a Full-Stack Software Developer with a strong passion for building scalable and user-centric applications. 
+I specialize in developing modern web solutions using React, Node.js, Express, PostgreSQL, and NextAuth.
+
+I enjoy transforming ideas into real-world products, focusing on clean architecture, performance, and maintainable code. 
+Continuously learning and improving, I am committed to delivering high-quality software and staying up-to-date with modern development practices.
 </p>
 
 
@@ -105,23 +107,32 @@ Always learning, always building.
       <br />
       <sub><b>GitHub</b></sub>
     </td>
+    
   </tr>
+  <td align="center" width="110">
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="58" height="58" alt="Supabase" />
+  <br />
+  <sub><b>Supabase</b></sub>
+</td>
 </table>
 
 <br/>
 <h2>Connect with me</h2>
-<p align="">
+<p align="left">
   <a href="https://linkedin.com/in/mrhujaifa" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50" style="border: 2px solid #00E0FF; border-radius: 50%; padding: 5px;"/>
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="45" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://mrhujaifa.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/domain.png" width="50" style="border: 2px solid #00E0FF; border-radius: 50%; padding: 5px;"/>
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="45" alt="Website" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:mdhujaifaislamshanto@gmail.com">
-    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="50" style="border: 2px solid #00E0FF; border-radius: 50%; padding: 5px;"/>
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="45" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/Hujaifa__Islam" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/twitter.png" width="50" style="border: 2px solid #00E0FF; border-radius: 50%; padding: 5px;"/>
+    <img src="https://img.icons8.com/fluency/96/twitter.png" width="45" alt="Twitter" />
   </a>
 </p>
 
