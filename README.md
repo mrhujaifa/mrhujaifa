@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://i.postimg.cc/jdGcRq87/Blue-and-White-Architect-Linked-In-Banner.gif" alt="Md. Hujaifa Islam Shanto - Frontend Developer Banner" width="100%" />
+  <img src="https://i.postimg.cc/jdGcRq87/Blue-and-White-Architect-Linked-In-Banner.gif" alt="Md. Hujaifa Islam Shanto" width="100%" />
 </p>
 
 
 <!-- 👨‍💻 Name & Designation -->
-<h1 align="center">Md. Hujaifa Islam Shanto</h1>
-<p align="center"><b> Full Stack Software Developer</b></p>
+<h1>Md. Hujaifa Islam Shanto</h1>
+<p align=""><b> Full Stack Software Developer</b></p>
 
 <p>A passionate Full Stack Software Developer from Bangladesh</p>
 <p>-  I enjoy programming and sharing knowledge</p>
 <p>-  How to reach me <b>mdhujaifaislamshanto@gmail.com</b></p>
-<p>- 💻 Most used line of code: <code>console.log("hello world")</code></p>
+<p>-  Most used line of code: <code>console.log("hello world")</code></p>
 
 <h2>About Me</h2>
 <p>
@@ -20,7 +20,7 @@ Always learning, always building.
 </p>
 
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <table>
   <tr>
@@ -109,7 +109,7 @@ Always learning, always building.
 </table>
 
 <br/>
-<h2>⚡️☕ Connect with me!</h2>
+<h2>Connect with me</h2>
 <p align="">
   <a href="https://linkedin.com/in/mrhujaifa" target="_blank">
     <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50" style="border: 2px solid #00E0FF; border-radius: 50%; padding: 5px;"/>
@@ -125,8 +125,9 @@ Always learning, always building.
   </a>
 </p>
 
-## 📊 GitHub Stats & Activity
+<br/>
 
+<h2>GitHub Stats & Activity</h2>
 <p align="">
   <!-- Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=mrhujaifa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
@@ -134,13 +135,10 @@ Always learning, always building.
   <img src="https://streak-stats.demolab.com?user=mrhujaifa&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
     <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhujaifa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
- 
-
 
   <img src="https://github-profile-trophy.vercel.app/?username=mrhujaifa&theme=radical&row=1&column=7" alt="GitHub Trophies" />
 
 </p>
-
 
 
 <p align="">
